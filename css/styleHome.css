@@ -1,0 +1,178 @@
+
+body, html
+{
+    margin: 0;
+    padding: 0;
+}
+.menu
+{
+    height: 50px;
+    background-color: rgb(234, 225, 212);
+    display: flex;
+    justify-content: center;
+    margin-left: -780px;
+
+}
+a
+{
+    color: black;
+    text-decoration: none;
+}
+.Home_Articles
+{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containe
+{
+    background-color: rgb(234, 225, 212);
+    display: flex;
+    justify-content: center;
+    height: 700px;
+   
+}
+.img
+{
+   width: 720px;
+   height: 500px;
+}
+.Name
+{
+    margin-top: -100px;
+    position: relative;
+    top: 45%;  
+    left: -15%;
+}
+.Aboutme
+{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+   
+}
+.About
+{
+    width: 572px;
+}
+.Work
+{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.border
+{
+    width: 800px;
+    height: 700px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(234, 225, 212);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.in_Border
+{
+    width: 450px;
+    height: 850px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;   
+}
+
+.Education
+{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    
+}
+.border_E
+{
+    width: 650px;
+    height: 650px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(234, 225, 212);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.in_Border_E
+{
+    width: 450px;
+    height: 850px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.btn_View
+{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+}
+.btn:hover
+{
+    color: azure;
+    cursor: pointer;
+}
+.ContactMe
+{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    
+}
+.Tel
+{
+    width: 150px;
+    
+}
+.End
+{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn_Sub
+{
+    color: azure;
+    margin-top: 30px;
+}
+.btn_Sub:hover
+{
+    color: bisque;
+    cursor: pointer;
+
+}
+
+.liul
+{
+    position: fixed;
+    bottom: 50%;
+    right: 5%;
+    
+}
+li
+{
+    list-style-type: circle;
+
+}
+.liul  a:hover
+{
+   
+}
