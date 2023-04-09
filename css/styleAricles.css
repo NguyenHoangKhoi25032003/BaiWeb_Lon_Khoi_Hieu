@@ -110,4 +110,9 @@ a
     justify-content: center;
     align-items: center;
 }
-
+.aricles
+{
+    width: 740px;
+    display: flex;
+   
+}
