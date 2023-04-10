@@ -1,0 +1,154 @@
+.menu
+{
+    height: 50px;
+    background-color: rgb(234, 225, 212);
+    display: flex;
+    justify-content: center;
+    margin-left: -780px;
+
+}
+a
+{
+    color: black;
+    text-decoration: none;
+}
+.Home_Articles
+{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Center
+{
+    
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+}
+.Center_All
+{
+    margin-top: 20px;
+    width: 942px;
+   
+    border-width: 2px;
+    border-color: antiquewhite;
+    border-style: solid;
+}
+.Center_container
+{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img
+{
+    display: flex;
+}
+.container_top
+{
+    margin-top: 50px;
+    width: 740px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Mycaffe
+{
+    width: 740px;
+}
+.hrr
+{
+    width: 650px;
+    display: flex;
+}
+.tym
+{
+    display: flex;
+    justify-content: space-between;
+}
+.vue
+{
+    display: flex;
+    align-items: center;
+}
+.tym_1
+{
+
+    display: flex;
+    align-items: center;
+}
+.Center_All_1
+{
+    width: 942px;
+}
+.Po
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Po a:hover
+{
+    color: bisque;
+}
+
+.chat_1
+{
+    display: flex;
+    align-items: center;
+}
+.chat
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title
+{
+    display: flex;
+    justify-content: space-between;
+}
+.End_1
+{
+    width: 740px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.magin
+{
+    margin-top: 20px;
+}
+.End
+{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.aricles
+{
+    margin-top: 30px;
+    width: 942px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.title_1 a:hover
+{
+    color: bisque;
+}
+.hrrr
+{
+    width: 650px;
+    display: flex;
+    margin-left: -240px;
+}
