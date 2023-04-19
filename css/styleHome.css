@@ -15,6 +15,7 @@ body, html
 }
 a
 {
+   
     color: black;
     text-decoration: none;
 }
@@ -47,6 +48,7 @@ a
 }
 .Aboutme
 {
+    animation: modalFadeIn ease 5s;
     margin-top: 50px;
     display: flex;
     justify-content: center;
@@ -117,17 +119,35 @@ a
     align-items: center;
 
 }
+@keyframes modalFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-100px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);  
+    }
+}
 .btn_View
 {
+    
     margin-top: 150px;
     display: flex;
     justify-content: center;
 }
-.btn:hover
+
+
+#btn:hover
 {
+    
     color: azure;
     cursor: pointer;
+   
+
 }
+
 .ContactMe
 {
     margin-top: 200px;
@@ -162,6 +182,7 @@ a
 
 .liul
 {
+    
     position: fixed;
     bottom: 50%;
     right: 5%;
